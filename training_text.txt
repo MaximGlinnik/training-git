@@ -5,5 +5,3 @@ learning C sharp
 learning Git
 Git gui
 By 
---------------
-Epam
