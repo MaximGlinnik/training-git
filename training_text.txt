@@ -1,6 +1,10 @@
 Helloy
 World
 learning C sharp
+<<<<<<< HEAD
 -----------------
 learning Git
 Git gui
+=======
+.Net
+>>>>>>> f6dcd95aebc2be41b815f1b0f9c0dd3cdb546ee4
